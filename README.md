@@ -1,3 +1,4 @@
+```
 Aether Bloom is a lightweight, zero-latency harmonic bloom and spectral enhancement plugin 
 designed to turn simple sounds into magical, airy, expanding textures with minimal DSP cost. 
 Embodying the full Spectral Garden aesthetic—pale, melancholy, spectral, soft, atmospheric, and 
