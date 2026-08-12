@@ -3,9 +3,11 @@ AETHER BLOOM — User Manual & Guide
 spectral garden
 V1.0.0 VST3 Edition
 I. The Ritual Space (Concept)
-Aether Bloom is a lightweight, zero-latency harmonic bloom and spectral enhancement plugin designed to turn simple sounds into magical, airy, expanding textures with minimal DSP cost.
+Aether Bloom is a lightweight, zero-latency harmonic bloom and spectral enhancement plugin designed to turn simple sounds into magical,
+ airy, expanding textures with minimal DSP cost.
 Embodying the full Spectral Garden aesthetic—pale, melancholy, spectral, soft, atmospheric,
-and emotionally evocative—the interface functions as a quiet ritual space. It features glowing pastel halos, floating sigils, and live audio-reactive breathing animations that respond dynamically to your music.
+and emotionally evocative—the interface functions as a quiet ritual space. It features glowing pastel halos, floating sigils,
+and live audio-reactive breathing animations that respond dynamically to your music.
 II. Core DSP Engines & Controls
 Harmonic Bloom Engine (Central Dial)
 What it does: Adds a lush, psychoacoustic harmonic expansion using efficient tube-style polynomial waveshaping.
@@ -23,8 +25,10 @@ Bloom Mix (Teal Knob)
 What it does: Smooth ritual crossfade between your dry signal and the fully processed wet atmosphere.
 III. Utility & Workflow Tools
 30 Atmospheric Ritual Presets: Access the dropdown menu at the top right to instantly shift between 30 hand-crafted atmospheric archetypes
- (Ethereal Awakening, Gossamer Voice, Deep Midnight Garden, Shimmering Keys, etc.). Changing presets instantly snaps and synchronizes all knobs and graphical halos to match.
-State A/B Comparison: Use the State A / State B toggle button to quickly audition, compare, and copy different parameter configurations without losing your workflow place.
+ (Ethereal Awakening, Gossamer Voice, Deep Midnight Garden, Shimmering Keys, etc.).
+ Changing presets instantly snaps and synchronizes all knobs and graphical halos to match.
+State A/B Comparison: Use the State A / State B toggle button to quickly audition, compare,
+ and copy different parameter configurations without losing your workflow place.
 True Bypass: Clean hardware-style bypass toggle switch to check processed signals against dry sources instantly.
 Live CPU Indicator: Ultralight performance meter embedded in the bottom-left corner to ensure zero heavy CPU footprint during complex sessions.
 IV. Installation & DAW Setup (Windows VST3)
